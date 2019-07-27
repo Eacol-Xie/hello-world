@@ -1,2 +1,2 @@
 # hello-world
-The First Repsitory
+The First Repository
